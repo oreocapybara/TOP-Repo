@@ -1,3 +1,3 @@
 # TOP-Repo
 
-Just a whole bunch of projects dine under The Odin Projectgi
+Just a whole bunch of projects dine under The Odin Project
