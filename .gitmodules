@@ -1,3 +1,6 @@
 [submodule "odin-recipes"]
 	path = odin-recipes
 	url = https://github.com/oreocapybara/odin-recipes.git
+[submodule "css-exercises"]
+	path = css-exercises
+	url = git@github.com:oreocapybara/css-exercises.git
