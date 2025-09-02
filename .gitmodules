@@ -7,3 +7,6 @@
 [submodule "basic-javascript"]
 	path = basic-javascript
 	url = https://github.com/oreocapybara/basics-javascript.git
+[submodule "/media/windows/Users/Calyx/Documents/Side Projects/top-repos/project/rock-paper-scissors"]
+	path = /media/windows/Users/Calyx/Documents/Side Projects/top-repos/project/rock-paper-scissors
+	url = git@github.com:oreocapybara/rock-paper-scissors.git
