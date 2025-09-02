@@ -4,3 +4,6 @@
 [submodule "css-exercises"]
 	path = css-exercises
 	url = git@github.com:oreocapybara/css-exercises.git
+[submodule "basic-javascript"]
+	path = basic-javascript
+	url = https://github.com/oreocapybara/basics-javascript.git
